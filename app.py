@@ -1,7 +1,7 @@
 import random
 
 target = random.randint(1, 20)
-print(target)
+#print(target)
 
 name = input(str("Tell Me Your Name:"))
 guesses = []
